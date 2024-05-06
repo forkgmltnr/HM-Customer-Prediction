@@ -49,7 +49,8 @@
 
 
 # Result
-![image](https://github.com/forkgmltnr/HM-Customer-Prediction/assets/61262393/a0323546-dfb8-4e7d-8966-664b8fcf617d)
+![image](https://github.com/forkgmltnr/HM-Customer-Prediction/assets/61262393/3c030037-708c-4453-bc59-68a6a40f9436)
+
 ## 결론& 방향성
 
 * 긍정(Very Good)& 보통(Fine)
